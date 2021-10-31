@@ -1,0 +1,12 @@
+body {
+    background-color: #cdcdc0; 
+}
+
+.main-sidebar {
+    border-radius: 10px;
+    background-color: #cdcdc0;
+}
+
+#main {
+    font-size: 1rem;
+}
